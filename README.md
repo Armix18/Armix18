@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Andrea Garcia 👋
 
-<!--
-**Armix18/Armix18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student at UPC (9th cycle) | Data Analyst Trainee**  
+Lima, Peru
 
-Here are some ideas to get you started:
+Currently completing an intensive Data Analysis bootcamp (DSRP). Passionate about turning data into insights with SQL, Python and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Focus
+- Data Analysis & Visualization
+- SQL (Intermediate - Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI Dashboards
+
+### 🚀 Featured Projects
+- 📈 **Inflación Alimentos y Energía en Perú (2020-2025)**  
+  Exploratory analysis of BCRP official data. Monthly variation trends and key insights.  
+  → [Repository](https://github.com/tuusuario/inflacion-peru-analysis)
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🌱 Looking for
+Data Analyst / Business Intelligence internships
+
+📫 **Connect with me**  
+[LinkedIn](https://www.linkedin.com/in/andrea-garcia-b1b61b310)
