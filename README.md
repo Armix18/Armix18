@@ -14,7 +14,7 @@ Currently completing an intensive Data Analysis bootcamp (DSRP). Passionate abou
 ### 🚀 Featured Projects
 - 📈 **Inflación Alimentos y Energía en Perú (2020-2025)**  
   Exploratory analysis of BCRP official data. Monthly variation trends and key insights.  
-  → [Repository](https://github.com/tuusuario/inflacion-peru-analysis)
+  → [Repository](https://github.com/Armix18/inflacion-peru-analysis)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
